@@ -1,41 +1,30 @@
 # Big-Cities
-# Большие Города
-Часть логики для информационной или образовательной платформы о городах и странах.
+Part of the logic for an information or educational platform about cities and countries.
 ​
-## Описание
-​В приложении реализована демонстрация данных о 10 городах: 
-- развёрнутая информация о погоде в данный момент, 
-- точная дата, время обновляющееся каждую минуту без дополнительного запроса от пользователя, 
-- слайд с фотографиями города, 
-- короткие факты о городе.
+## Description
+​The application demonstrates data for 10 cities:
+- detailed information about the current weather,
+- exact date, time updated every minute without additional requests from the user,
+- slide with photographs of the city,
+- here are the facts about the city.
  <br>
-Приложение реализовано для 10 самых густонаселённых городов мира, приведены графики роста населения в городах за 2013-2022гг. <br>
-Есть возможность сортировки городов по алфавиту и численности населения, выбранный способ сортировки заносится в local storage. <br>
-В приложении могут быть занесены города по другому отличительному признаку(10 столиц, 10 городов страны и тд). <br>
+The application has been implemented for the 10 most populous cities in the world, showing graphs of population growth in cities for 2013-2022. <br>
+It is possible to sort cities alphabetically and by population; the selected sorting method is entered into local storage. <br>
+In the application, cities can be entered according to another distinctive feature (10 capitals, 10 cities of the country, etc.). <br>
 <br>
-В приложении реализована игра Правда или Ложь по фактам, связанным с городами, с подсчётом баллов. Игра может быть использована, как инструмент проверки знаний в образовательных целях или будет дополнительным стимулом использовать приложение в варианте информационно-ознакомительного продукта. 
+The application implements a game called True or False based on facts related to cities, with scoring. The game can be used as a knowledge testing tool for educational purposes or will be an additional incentive to use the application as an informational and educational product. 
 
-​Данные хранятся в JSON формате. В файле DataJSON.js.
+​Data is stored in JSON format. In the DataJSON.js file.
 ​
-## Стек технологий
- 
-- HTML5 
-- CSS3/SCSS 
-- JS
-- API
-----------
+## Technologies:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-Библиотеки: 
-- moment.js 
-- gsap 
-- chart.js
-
-## Ссылка на github pages 
-
+## Result:
 ​https://olagolanova.github.io/BigCities/
 
-## Командная работа
-
+## Thanks to all Contributors:
 [@anna-shr](https://github.com/anna-shr) <br>
 [@Julia6658](https://github.com/Julia6658) <br>
 [@OlaGolanova](https://github.com/OlaGolanova) <br>
