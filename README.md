@@ -16,6 +16,7 @@ It is possible to sort cities alphabetically and by population; the selected sor
 In the application, cities can be entered according to another distinctive feature (10 capitals, 10 cities of the country, etc.). <br>
 <br>
 The application implements a game called True or False based on facts related to cities, with scoring. The game can be used as a knowledge testing tool for educational purposes or will be an additional incentive to use the application as an informational and educational product.
+
 <img width="700" alt="Снимок экрана" src="https://github.com/Diana348/BigCities/blob/main/project%203-3.png">
 
 ​Data is stored in JSON format. In the DataJSON.js file.
